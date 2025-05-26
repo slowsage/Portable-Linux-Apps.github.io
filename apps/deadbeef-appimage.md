@@ -1,6 +1,6 @@
 # DEADBEEF-APPIMAGE
 
- Unofficial appimage for the deadbeef music player.
+ Unofficial AppImage of the DeaDBeeF music player. Stable and Nightly versions.
 
  SITE: https://github.com/Samueru-sama/DeaDBeef-AppImage
 

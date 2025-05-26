@@ -1,17 +1,34 @@
 # KDEUTILS
 
- This metapackage includes general-purpose utilities 
- provided with the official release of KDE:
+ This metapackage includes general-purpose utilities  provided with the official release of KDE:
  
  - ark
  - filelight
+ - francis
+ - isoimagewriter
+ - kalm
+ - kate
+ - kbackup
  - kcalc
  - kcharselect
+ - kclock
+ - kdebugsettings
  - kdf
+ - kdialog
+ - keditbookmarks
+ - keysmith
+ - kfind
  - kgpg
+ - kongress
+ - krecorder
+ - kteatime
  - ktimer
- - kwalletmanager5
+ - ktrip
+ - kweather
+ - kwrite
+ - skanpage
  - sweeper
+ - telly-skout
  
  SITE: https://apps.kde.org
 

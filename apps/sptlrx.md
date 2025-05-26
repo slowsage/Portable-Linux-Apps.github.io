@@ -1,6 +1,6 @@
 # SPTLRX
 
- Synchronized lyrics in your terminal.
+ Synchronized lyrics in your terminal
 
  SITE: https://github.com/raitonoberu/sptlrx
 

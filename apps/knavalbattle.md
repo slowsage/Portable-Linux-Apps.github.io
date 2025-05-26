@@ -1,14 +1,8 @@
 # KNAVALBATTLE
 
- Battle Ship game for KDE workspaces. Players try to sink each other's ships 
- without knowing where they are.
+ Battle Ship game for KDE workspaces. Players try to sink each other's ships  without knowing where they are.
  
- This script installs the full and updatable KDE Games suite from JuNest, a
- lightweight Arch Linux based distribution that allows the creation of 
- disposable and partially isolated GNU/Linux environments within any generic 
- GNU/Linux host OS and without requiring root privileges to install packages.
- 
- NOTE: due to "proot", it is unable to connect the internet.
+ This script installs the full and updatable KDE Games suite from JuNest, a lightweight Arch Linux based distribution that allows the creation of disposable and partially isolated GNU/Linux environments within any generic GNU/Linux host OS and without requiring root privileges to install packages.
  
  USAGE (from the command line):
  
